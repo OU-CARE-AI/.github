@@ -15,5 +15,5 @@ hands-on workshops over two years, all runnable in a browser on Jetstream2.
 
 ### Research computing
 
-The project's Jetstream2 allocation also supports a small number of Oakland University research groups,
-by invitation. Contact the project team to ask about access.
+The project's Jetstream2 allocation also supports a small number of Oakland University and WPI research
+groups working with the project, by invitation. Reach out to the project team to ask about access.
